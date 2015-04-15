@@ -81,7 +81,6 @@ d3.json("cities.json", function(error, data) {
        .enter()
        .append("a")
           .attr("xlink:href", function(d) {
-            console.log(d.link);
             return d.link;}
           )
        .append("circle")
