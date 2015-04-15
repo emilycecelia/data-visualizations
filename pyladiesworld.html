@@ -75,7 +75,6 @@ d3.json("world-110m2.json", function(error, topology) {
 console.log("HI ME!");
 // load and display the cities
 d3.json("cities.json", function(error, data) {
-    console.log(data);
     g.selectAll("circle")
        .data(data)
        .enter()
