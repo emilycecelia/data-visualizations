@@ -1,0 +1,226 @@
+[
+    {
+      "name": "Amsterdam, the Netherlands",
+      "size": 283,
+      "lat":52.3667, 
+      "lon":4.9000,
+      "link":"https://www.google.com/"
+    },
+    {
+      "name": "Ann Arbor",
+      "size": 130,
+      "lat":42.2814, 
+      "lon":-83.7483,
+      "link":""
+    },
+    {
+      "name": "Antananarivo, MDG",
+      "size": 0,
+      "lat":-18.9333, 
+      "lon":47.5167,
+      "link":"http://www.pyladies.com/locations/tnr/"
+    },
+    {
+      "name": "Atlanta, GA",
+      "size": 211,
+      "lat":33.7550, 
+      "lon":-84.3900,
+      "link":"http://www.pyladies.com/locations/atl/"
+    },
+    {
+      "name": "Austin, TX",
+      "size": 410,
+      "lat":30.2500, 
+      "lon":-97.7500,
+      "link":"http://www.pyladies.com/locations/atx/"
+    },
+    {
+      "name": "Bangalore, India Poop",
+      "size": 151,
+      "lat":12.9667, 
+      "lon":77.5667,
+      "link":"http://www.pyladies.com/locations/blr/"
+    },
+    {
+      "name": "Barcelona",
+      "size": 97,
+      "lat":41.3833, 
+      "lon":2.1833,
+      "link":"https://twitter.com/PyLadies_ES"
+    },
+    {
+      "name": "Berlin, Germany",
+      "size": 297,
+      "lat":52.5167, 
+      "lon":13.3833,
+      "link":"http://berlin.pyladies.com/"
+    },
+    {
+      "name": "Boston, MA",
+      "size": 297,
+      "lat":42.3601, 
+      "lon":-71.0589,
+      "link":"http://boston.pyladies.com/"
+    },
+    {
+      "name": "Brno, Czech Republic",
+      "size": 13,
+      "lat":49.2000, 
+      "lon":16.6167,
+      "link":"http://www.pyladies.com/locations/cz/"
+    },
+    {
+      "name": "Charleston, SC",
+      "size": 636,
+      "lat":32.7833, 
+      "lon":-79.9333,
+      "link":"http://charleston.pyladies.com/"
+    },
+    {
+      "name": "Chicago, IL",
+      "size": 150,
+      "lat":41.8369, 
+      "lon":-87.6847,
+      "link":"http://www.pyladies.com/locations/chicago"
+    },
+    {
+      "name": "Dublin, Ireland",
+      "size": 282,
+      "lat":53.3478, 
+      "lon":-6.2597,
+      "link":"http://www.pyladies.com/locations/dublin/"
+    },
+    {
+      "name": "Edinburgh, Scotland",
+      "size": 65,
+      "lat":55.9531, 
+      "lon":-3.1889,
+      "link":"http://www.pyladies.com/locations/edinburgh/"
+    },
+    {
+      "name": "Helsinki, Finland",
+      "size": 123,
+      "lat":60.1708, 
+      "lon":24.9375,
+      "link":"http://www.pyladies.com/locations/helsinki/"
+    },
+    {
+      "name": "India",
+      "size": 123,
+      "lat":28.6139, 
+      "lon":77.2090,
+      "link":"https://twitter.com/PyladiesIndia"
+    },
+    {
+      "name": "Los Angeles, CA",
+      "size": 393,
+      "lat":34.0500, 
+      "lon":-118.2500,
+      "link":"http://www.pyladies.com/locations/la/"
+    },
+    {
+      "name": "Montreal, Canada",
+      "size": 51,
+      "lat":45.5017, 
+      "lon":-73.5673,
+      "link":"http://www.pyladies.com/locations/mtl/"
+    },
+    {
+      "name": "New York, NY",
+      "size": 1310,
+      "lat":42.3482, 
+      "lon":-75.1890,
+      "link":"http://nyc.pyladies.com/"
+    },
+    {
+      "name": "Portland, OR",
+      "size": 433,
+      "lat":45.5200, 
+      "lon":-122.6819,
+      "link":"http://pyladiespdx.github.io/"
+    },
+    {
+      "name": "Raleigh-Durham, NC",
+      "size": 100,
+      "lat":35.7806, 
+      "lon":-78.6389,
+      "link":"http://www.pyladies.com/locations/rdu/"
+    },
+    {
+      "name": "Salt Lake Area, Utah",
+      "size": 235,
+      "lat":40.7500, 
+      "lon":-111.8833,
+      "link":"http://www.pyladies.com/locations/saltlake/"
+    },
+    {
+      "name": "San Antonio",
+      "size": 77,
+      "lat":29.4167, 
+      "lon":-98.5000,
+      "link":""
+    },
+    {
+      "name": "San Diego, CA",
+      "size": 186,
+      "lat":32.7150, 
+      "lon":-117.1625,
+      "link":"http://www.pyladies.com/locations/sd/"
+    },
+    {
+      "name": "San Francisco, CA",
+      "size": 2126,
+      "lat":37.7833, 
+      "lon":-122.4167,
+      "link":"http://www.pyladies.com/locations/sf/"
+    },
+    {
+      "name": "Seattle, WA",
+      "size": 324,
+      "lat":47.6097, 
+      "lon":-122.3331,
+      "link":"http://www.pyladies.com/locations/sea/"
+    },
+    {
+      "name": "Seoul, Korea",
+      "size": 77,
+      "lat":37.5667, 
+      "lon":126.9667,
+      "link":"http://www.pyladies.com/locations/seoul/"
+    },
+    {
+      "name": "Stockholm, Sweden",
+      "size": 283,
+      "lat":59.3294, 
+      "lon":18.0686,
+      "link":"http://www.pyladies.com/locations/stockholm/"
+    },
+    {
+      "name": "Taiwan",
+      "size": 17,
+      "lat":23.5000, 
+      "lon":121.0000,
+      "link":"http://tw.pyladies.com/"
+    },
+    {
+      "name": "Toronto, Canada",
+      "size": 247,
+      "lat":43.7000, 
+      "lon":-79.4000,
+      "link":"http://www.pyladies.com/locations/toronto/"
+    },
+    {
+      "name": "Vienna, Austria",
+      "size": 138,
+      "lat":48.2000, 
+      "lon":16.3667,
+      "link":"http://www.pyladies.com/locations/vienna/"
+    },
+    {
+      "name": "Washington, DC",
+      "size": 512,
+      "lat":38.9047, 
+      "lon":-77.0164,
+      "link":"http://www.pyladies.com/locations/dc/"
+    }
+  ]
